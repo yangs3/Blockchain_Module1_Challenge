@@ -2,4 +2,4 @@
 ### Module 1 Challenge
 
 Streamlit Application Screenshot
-![markdown_image](Blockchain_blocks_screenshot.png)
+![markdown_image](Blockchain_blocks_image.png)
